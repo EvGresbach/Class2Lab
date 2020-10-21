@@ -5,5 +5,5 @@ function increaseClicks ()
 }
 function printClicks()
 {
-    alert("You clicked" + clicks + "times");
+    alert("You clicked " + clicks + " times");
 }
